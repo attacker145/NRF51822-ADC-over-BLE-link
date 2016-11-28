@@ -4,3 +4,4 @@ Project file is located at: examples/ble_peripheral/ble_app_uart/pca10028/s130/a
 Sends ADC data over BLE link.
 Connect to "CNK TECH Labs" Bluetooth device.
 
+
