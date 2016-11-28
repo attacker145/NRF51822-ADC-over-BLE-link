@@ -25,8 +25,7 @@
 #define NRF_DRV_SPI_H__
 
 #include "nordic_common.h"
-//#include "E:\Projects\Sensocheck_BLE\Fimware 07252016\nRF5_SDK_11.0.0_89a8197\examples\peripheral\spi\config\spi_pca10028\nrf_drv_config.h"
-#include "E:\Projects\Sensocheck_BLE\Fimware 07252016\nRF5_SDK_11.0.0_89a8197\examples\ble_peripheral\ble_app_uart\nrf_drv_config.h"
+#include "E:\Projects\ADC over BLE Rev01\examples\ble_peripheral\ble_app_uart\nrf_drv_config.h"
 //#include "nrf_drv_config.h"
 #include "nrf_spi.h"
 #include "nrf_spim.h"
